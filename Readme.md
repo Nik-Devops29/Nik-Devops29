@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Cloud Operations Engineer** in **Accenture**.
 
-- 👯 I’m looking to get new roles and opportunities on **Devops and Cloud**.
+- 👯 I’m looking to get new roles and opportunities in **Devops and Cloud**.
 
 - 📝 I am certified in **Linux Foundation- Certified Kubernetes Administrator, GCP-Associate Cloud Engineer, GCP-Cloud Digital Leader**.
 
